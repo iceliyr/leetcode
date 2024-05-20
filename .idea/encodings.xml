@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ArraysList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ArraysList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BackTrack/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BackTrack/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BinarySearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BinarySearch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DynamicProgramming/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DynamicProgramming/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Greedy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Greedy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LinkedList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LinkedList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Map/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Map/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Matrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Matrix/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sort/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sort/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stack/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/String/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/String/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tree/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tree/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Hash/pom.xml" />
+        <option value="$PROJECT_DIR$/BackTrack/pom.xml" />
+        <option value="$PROJECT_DIR$/Greedy/pom.xml" />
+        <option value="$PROJECT_DIR$/LinkedList/pom.xml" />
+        <option value="$PROJECT_DIR$/ArraysList/pom.xml" />
+        <option value="$PROJECT_DIR$/Matrix/pom.xml" />
+        <option value="$PROJECT_DIR$/Tree/pom.xml" />
+        <option value="$PROJECT_DIR$/Map/pom.xml" />
+        <option value="$PROJECT_DIR$/Stack/pom.xml" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/pom.xml" />
+        <option value="$PROJECT_DIR$/BinarySearch/pom.xml" />
+        <option value="$PROJECT_DIR$/Sort/pom.xml" />
+        <option value="$PROJECT_DIR$/String/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="corretto-1.8 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
