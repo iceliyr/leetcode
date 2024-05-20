@@ -9,6 +9,6 @@ public class Main {
         int pre[]={3,9,20,15,7};
         int in[]={9,3,15,20,7};
         TreeNode node=null;
-        node=solution.buildTree(pre,in);
+//        node=solution.buildTree(pre,in);
     }
 }
